@@ -7,16 +7,6 @@
 - 项目环境：vue-cli-3.0、webpack-4.0、npm-6.13、node-v12.16。
 - 请拉取 master 分支的代码，其余是开发分支。
 
-友情链接：
-
-1.  [DataV 官方文档（建议使用之前先浏览）](http://datav.jiaminghi.com/guide/)
-2.  [echarts 实例](https://www.echartsjs.com/examples/zh/index.html)，[echarts 官方文档](https://www.echartsjs.com/zh/option.html#title)
-3.  [Vue 官方文档](https://cn.vuejs.org/v2/guide/instance.html)
-4.  [项目 gitee 地址（国内速度快）](https://gitee.com/zhufei_yao/study_hard)
-
-项目展示
-![项目展示](https://images.gitee.com/uploads/images/2020/0411/221307_0f8af2e7_4964818.gif '20200411_221020.gif')
-
 ## 二、主要文件介绍
 
 | 文件                | 作用/功能                                           |
@@ -183,7 +173,3 @@ function refreshRem() {
 3. 修复屏幕适配问题，更换了所有的尺寸单位，统一使用 rem。
 4. 使用 Mixins 注入图表响应式代码。
 5. vue-awesome 改成按需引入的方式
-
-## 五、其余
-
-这个项目是个人的作品，难免会有问题和 BUG，如果有问题请进行评论，我也会尽力去更新，自己也在前端学习的路上，欢迎交流，非常感谢！
